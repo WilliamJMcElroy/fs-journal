@@ -109,3 +109,11 @@ ALIGN ITEMS IS UP DOWN
 
 col-12 col-md-6 = on medium and smaller screens, on larger screens it will be 12
 
+
+
+in display flex you can reorder by placing order-first  on the column 
+
+order-last also works
+
+order 1-5
+
