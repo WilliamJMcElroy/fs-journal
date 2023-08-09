@@ -2,6 +2,7 @@
 
 html basic prompt = !
 Emoji prompt = "windows+period"
+
 copy line = shift alt (down, up)
 
 PADDING IS INTERNAL
@@ -17,6 +18,8 @@ let primarycolor =--(blahhhhh)
     --dark: #hexcolor
     --light: #hexpurple
 }
+
+D FLEX BOX, THEN SET WIDTHS OF EACH ITEM
 
 day 3
 building w bootstrap
@@ -37,5 +40,39 @@ you can split a row into 12 columns
 
 if less than 12 and you want to even its justify-content-around or another justify-content class
 
+"gap" instead of Justify-content around
 
+"col-(1 through 12)" in order to set the column width
+
+"class col 3 (color)"
+{
+m = margin
+
+mt = margin top
+
+mb = margin bottom
+
+p = padding
+
+fs is font size
+
+btn is button
+btn-primary is blue
+
+text-danger is red tex
+text-light
+text-alignment
+}
+
+sizes = lg large, md medium, sm small
+
+have one column with no size infix, have a base col size
+
+class "d-none" = no display
+
+.section.row
+.col.6
+
+
+SPAN is an inline element
 
