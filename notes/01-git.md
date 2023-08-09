@@ -58,6 +58,12 @@ p = padding
 
 ps = padding start
 
+pe = padding end
+
+py is padding on y axis, top bottom
+
+px is padding on x axis, left-right
+
 fs is font size
 
 btn is button
@@ -66,6 +72,12 @@ i class for image
 text-danger is red tex
 text-light
 text-alignment
+text-start moves it back to the left side
+text-end moves it to the right side
+
+object-fit contain keeps a photo in a stock size while shrinking and growing with width and height
+
+object-position (top, start, end, bottom)
 
 background-image creates the background as a photo
 
@@ -75,7 +87,7 @@ background-position moves the position of the photo
 
 text rgba and it can change opacity
 
-
+hue-rotate changes color
 }
 
 sizes = lg large, md medium, sm small
@@ -86,6 +98,7 @@ class "d-none" = no display
 
 .section.row
 .col.6
+row
 
 
 SPAN is an inline element
@@ -93,4 +106,6 @@ SPAN is an inline element
 JUSTIFY CONTENT IS LEFT RIGHT
 
 ALIGN ITEMS IS UP DOWN
+
+col-12 col-md-6 = on medium and smaller screens, on larger screens it will be 12
 
