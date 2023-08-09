@@ -52,13 +52,17 @@ mt = margin top
 
 mb = margin bottom
 
+ms = margin start 
+
 p = padding
+
+ps = padding start
 
 fs is font size
 
 btn is button
 btn-primary is blue
-
+i class for image
 text-danger is red tex
 text-light
 text-alignment
