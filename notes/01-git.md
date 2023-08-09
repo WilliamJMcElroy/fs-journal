@@ -66,6 +66,16 @@ i class for image
 text-danger is red tex
 text-light
 text-alignment
+
+background-image creates the background as a photo
+
+background-size: cover fills the backgroundspace
+
+background-position moves the position of the photo
+
+text rgba and it can change opacity
+
+
 }
 
 sizes = lg large, md medium, sm small
@@ -79,4 +89,8 @@ class "d-none" = no display
 
 
 SPAN is an inline element
+
+JUSTIFY CONTENT IS LEFT RIGHT
+
+ALIGN ITEMS IS UP DOWN
 
