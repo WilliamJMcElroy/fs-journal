@@ -178,3 +178,21 @@ container will have a little margin, container-fluid will fill
 
 for mobile col-md-6
 
+so, make divs then custom background-color
+
+make divs within cols in order to use padding on column rather than marg
+
+ADD PADDING TO COLUMN NOT INNER DIV
+
+remove p tag margin
+
+grab colors directly from figma
+
+backdrop-filter
+
+media queries
+
+d for display in 
+
+sticky-top, sticky-left, sticky-right sticky-bottom
+
