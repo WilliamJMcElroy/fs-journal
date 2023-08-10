@@ -117,3 +117,64 @@ order-last also works
 
 order 1-5
 
+
+DAY 4
+
+flex-end: Items align to the right side of the container.
+center: Items align at the center of the container.
+space-between: Items display with equal spacing between them.
+space-around: Items display with equal spacing around them.
+
+align-items
+
+flex-start: Items align to the top of the container.
+flex-end: Items align to the bottom of the container.
+center: Items align at the vertical center of the container.
+baseline: Items display at the baseline of the container.
+stretch: Items are stretched to fit the container.
+
+align-self
+
+(accepts same as align-items)
+
+flex-direction
+
+row: Items are placed the same as the text direction.
+row-reverse: Items are placed opposite to the text direction.
+column: Items are placed top to bottom.
+column-reverse: Items are placed bottom to top.
+
+flex-wrap
+
+nowrap: Every item is fit to a single line.
+wrap: Items wrap around to additional lines.
+wrap-reverse: Items wrap around to additional lines in reverse.
+
+order
+
+(order can go into negative numbers to move an object 
+from where it is to where it should be)
+
+FIGMA NOTES
+
+Control G makes all elements above 
+
+when you get a figma or a mockup try to break up row column and container
+
+"outline the grid system"
+
+red for container
+
+yellow for row
+
+green for column
+
+use header, name footer to denote a three-part body, use header1, header2,
+body1, body2 for a multiple
+
+container will have a little margin, container-fluid will fill
+
+"think mobile first"
+
+for mobile col-md-6
+
