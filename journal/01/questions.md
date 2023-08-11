@@ -25,10 +25,10 @@
     > | The "selector" (h1 element), the "property" (color), and the "value" (rgba(225,210,33,.75)) |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | With proper design, you not only demonstrate capability and "seriousness" of a company but also "tone" and "feel" of a company. having it also be optimized for mobile or at least various screen sizes also is nearly required these days. |
+    > | With proper design, you not only demonstrate capability and "seriousness" of a company but also "tone" and "feel" of a company, product, idea, whatever we're pushing. having it also be optimized for mobile or at least various screen sizes also is nearly required these days, definitely best practice. |
 
 08. What is the purpose of ***wireframing***?
-    > | a wireframe defines product heirarchy, allowing you to organize ideas and providing a rough outline. it is primarily used for demonstrating flow from various pages... an on-paper User Interface |
+    > | a wireframe defines product heirarchy, allowing you to organize ideas and providing a rough outline. it is primarily used for demonstrating flow from various pages... an on-paper or figma User Interface Layout that can demonstrate flow |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
     > | i think that wireframes become more valuable with larger more specific projects, but you won't know how large or specific the project may be from the get-go, so i'd think they're a good idea, especially if working with others on a project. |
