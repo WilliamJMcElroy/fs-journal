@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
+* **[ScoreBoard](https://github.com/WilliamJMcElroy/ScoreBoard)**
 * **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
