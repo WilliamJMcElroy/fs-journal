@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | parameters are the outline/ conditions that, if met, allow the argument to follow, or said another way, which "settings" need to be met |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
@@ -50,7 +50,7 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | when primitives are passed, they only move their value to a new separate source, whereas when reference types are passed, they share the same source |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
