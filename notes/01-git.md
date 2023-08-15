@@ -182,7 +182,7 @@ so, make divs then custom background-color
 
 make divs within cols in order to use padding on column rather than marg
 
-ADD PADDING TO COLUMN NOT INNER DIV
+ADD PADDING TO COLUMN NOT INNER DIVe
 
 remove p tag margin
 
