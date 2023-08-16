@@ -9,7 +9,12 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > |  SOLID is an acronym 
+S represents the Single Responsibility principle which describes cohesion and the functional readiness of elements within a module
+O represents the Open Closed principle 
+L represents the Liskov Substitution principle
+I represents the Interface Segregation principle
+D represents the Dependency Inversion principle|
 
 04. Given this array: How could you remove the `pineapple`?
 
