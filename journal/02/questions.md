@@ -55,7 +55,14 @@ D represents the Dependency Inversion principle states that the most flexible sy
     }
     addFriendToThem()
     addFriendToYou()
-     |
+     
+     
+     also via splice method 
+     
+     function addFriendToThem(){
+        you.friends += ['them']
+        them.friends += ['you']
+     }|
 
 06. Give an example of a JavaScript `Conditional`:
 
