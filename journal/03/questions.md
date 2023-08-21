@@ -6,7 +6,6 @@
   breaking up larger functions into smaller functions and calling them
   Encapsulation - each object should control it's own state, own this.state example
   can be achieved by separating longer lines of code into smaller functions/modules
-  
   Inheritance
   Polymorphism
     |
