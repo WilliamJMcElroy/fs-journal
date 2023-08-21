@@ -1,7 +1,15 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > | the four pillars of OOP are
+  Abstraction - hiding away the details of something inside a prototype or function
+  breaking up larger functions into smaller functions and calling them
+  Encapsulation - each object should control it's own state, own this.state example
+  can be achieved by separating longer lines of code into smaller functions/modules
+  
+  Inheritance
+  Polymorphism
+    |
 
 02. How does `export` differ from `export default`?
   
