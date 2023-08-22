@@ -12,7 +12,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > | an export is a specific definition that cannot change using "business logic" whereas export default is modifiable |
 
 03. What is Encapsulation?
   
