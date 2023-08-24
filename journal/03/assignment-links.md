@@ -2,5 +2,5 @@
 
 * **[gameNight](https://github.com/WilliamJMcElroy/gameNight)**
 * **[Vendy](https://github.com/WilliamJMcElroy/-Vendy)**
-* **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
+* **[Gregslist](https://github.com/WilliamJMcElroy/Gregslist-lab)**
 * **[Repo](https://github.com/WilliamJMcElroy/<ASSIGNMENT_REPO>)**
