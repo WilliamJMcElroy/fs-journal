@@ -18,5 +18,8 @@
     "titleBar.inactiveBackground": "#85b0d699",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#85b0d6"
+  "peacock.color": "#85b0d6",
+  "cSpell.words": [
+    "Epresational"
+  ]
 }
