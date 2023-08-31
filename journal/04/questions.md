@@ -26,9 +26,8 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Establishing a connection, requesting data, receiving data|
 
-  <!-- ANSWER THIS ONE LATER -->
 
 07. What does the `API` acronym stand for?
 
@@ -36,14 +35,12 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | must be asynchronous |
-
-  <!-- flush out -->
+  > | must be asynchronous in order to 'await' before proceeding|
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
-  <!-- ANSWER HERE -->
+  > | encapsulation allows for hidden or background processes to run and operate without the user seeing it  |
+
 
 10. What is `HTTP` response code for a successful request?
 
